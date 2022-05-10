@@ -9,3 +9,5 @@ Projeto de estudo do curso do Bonieky/B7web node + TS
 
 ### Para rodar o projeto
 `npm run start-dev`
+
+### Não esquecer do arquivo .env na root folder
